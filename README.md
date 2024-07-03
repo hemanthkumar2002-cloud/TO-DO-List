@@ -16,3 +16,8 @@ script.js: The JavaScript file that contains the functionality of the To-Do List
   <source src="todo-images/Document - Personal - Microsoft​ Edge 2024-07-03 12-11-11.mp4" type="video/mp4">
   
 </video>
+
+"Suggestions and project improvement ideas are welcomed!"
+Thanks a lot,
+Project Leader
+Shashi Raj
