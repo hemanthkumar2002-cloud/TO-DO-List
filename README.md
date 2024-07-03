@@ -18,6 +18,9 @@ script.js: The JavaScript file that contains the functionality of the To-Do List
 </video>
 
 "Suggestions and project improvement ideas are welcomed!"
+<br>
 Thanks a lot,
+<br>
 Project Leader
-Shashi Raj
+<br>
+Hemanth Kumar
