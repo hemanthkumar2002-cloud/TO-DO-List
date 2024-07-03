@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../bootstrap-5.3.3-dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../fontawesome-free-6.5.2-web (1)/fontawesome-free-6.5.2-web/css/all.min.css">
+</head>
+<body>
+    <nav class="navbar navbar-dark bg-success">
+        <div class="container-fluid">
+            <h1 class="text-white">TO-DO LIST</h1>
+        </div>
+    </nav>
+
+    <!-- Code of the Todo Main Box -->
+    <section class="container mt-5 ">
+        <div class="row ">
+            <div class="col-7 m-auto">
+                <div class="card">
+                    <div class="card-header bg-success"><h1 class="text-center text-white">TODo List</h1></div>
+                    <div class="card-body">
+                    <form id="form-element">
+                                <input type="text" placeholder="Enter Task Here" class="form-control" id="task-name">
+                                <input type="submit" class="btn btn-success mt-4" id="submit-btn">
+                            </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- To do List Point Displaying code -->
+    <section class="container mt-5">
+        <div class="row ">
+            <div class="col-7 m-auto">
+                <div class="card">
+                    <div class=""></div>
+                    <div class="card-body">
+                           <ul class="list-group" id="display">
+                                
+                           </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
